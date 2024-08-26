@@ -8,12 +8,6 @@ I'm a passionate Full-Stack Developer with experience in building web and mobile
 - **Detail-Oriented**: From UI/UX to backend architecture, I ensure every detail is meticulously crafted.
 - **Continuous Learner**: Always exploring new technologies and methodologies to stay ahead in the ever-evolving tech landscape.
 
-## 📊 GitHub Stats
-
-![Marek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marekbukoski&show_icons=true&theme=github_light)
-
-![Marek's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=marekbukoski&theme=light)
-
 ## 🌐 Connect with Me
 
 - **LinkedIn**: [linkedin.com/in/marek-bukoski-36779130a/](https://www.linkedin.com/in/marek-bukoski-36779130a/)
