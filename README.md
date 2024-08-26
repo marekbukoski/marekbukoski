@@ -9,19 +9,19 @@ I'm a passionate Full-Stack Developer with experience in building web and mobile
 - **Continuous Learner**: Always exploring new technologies and methodologies to stay ahead in the ever-evolving tech landscape.
 
 ## 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=marekbukoski&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=light
 
-https://github-readme-streak-stats.herokuapp.com/?user=marekbukoski&theme=radical
+![Marek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marekbukoski&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=light)
+
+![Marek's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=marekbukoski&theme=radical)
 
 ## 🌐 Connect with Me
 
-- **LinkedIn**: https://www.linkedin.com/in/marek-bukoski-36779130a/
+- **LinkedIn**: [linkedin.com/in/marek-bukoski-36779130a/](https://www.linkedin.com/in/marek-bukoski-36779130a/)
 - **Gmail**: marekbukoski41@gmail.com
 
 ## ✨ Fun Fact
 
 I love combining creative design with robust engineering to build impactful and user-friendly applications.
-
 
 <!---
 marekbukoski/marekbukoski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
