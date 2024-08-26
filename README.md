@@ -10,7 +10,7 @@ I'm a passionate Full-Stack Developer with experience in building web and mobile
 
 ## 📊 GitHub Stats
 
-![Marek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marekbukoski&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=light)
+![Marek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marekbukoski&show_icons=true&theme=github_light)
 
 ![Marek's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=marekbukoski&theme=light)
 
